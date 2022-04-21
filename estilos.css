@@ -1,0 +1,177 @@
+body{
+    background-color: #28272A;
+}
+/* Encabezado */
+header{
+    background-color: rgb(5, 5, 5);
+    height: 230px;
+}
+#logo{
+    text-align: center;
+}
+/* temas */
+#back{
+    display: flex;
+    justify-content: right;
+}
+/* Principal */
+main{
+    display:flex;
+    justify-content: right;
+}
+#A{
+    border: 5px #390000;
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    height: 720px;
+    width: 30%;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #390000;
+}
+#titulo{
+    text-align: center;
+}
+#B{
+    background-color: #390000;
+    height: 620px;
+    width: 50%;
+}
+th,td{
+    background-color: black;
+}
+td,th{
+    color: white;
+}
+/* temas */
+#fondot1{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(assets/img/Coolio_teamcard.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fondot2{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(assets/img/Nirvana-Logo-tumbs.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fondot3{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(assets/img/1676cc3c90dd0dbe7f89654df5f782de.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fondot4{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/Gorillaz_logo.svg.png);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-attachment: fixed;
+}
+#fondot5{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/612a33347c7c75000443b27e.png);
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-attachment: fixed;
+}
+#fondot6{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/Radiohead-logo-E9987294A9-seeklogo.com.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fondot7{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/Queen-Logo.png);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-attachment: fixed;
+}
+#fondot8{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(assets/img/viejas-locas-logo-png.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-attachment: fixed;
+}
+#fondot9{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/RHCP_logo.svg.png);
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#fondot10{
+    display:flex;
+    justify-content: right;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(/assets/img/a5bdc8824a2016b71bbcb0ba1d78045d.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#musica{
+    display: flex;
+    justify-content: center;
+}
+/* pie de pagina */
+footer{
+    background-color: black;
+    color: #390000;
+    height: 225px;
+    justify-content: center;
+    text-align: center;
+}
